@@ -8,7 +8,7 @@
 }
 
 body {
-    background: linear-gradient(rgba(255, 158, 2, 0), rgba(0,0,0,0.5)), url(./Imagenes/amarillo.gif);
+    background: linear-gradient(rgba(255, 158, 2, 0), rgba(0,0,0,0.5)), url(./imagenes/amarillo.gif);
     background-attachment: fixed;
     background-position: top;
     background-size: cover;
